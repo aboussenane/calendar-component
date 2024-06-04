@@ -16,11 +16,17 @@
     "@fullcalendar/daygrid": "^6.1.13",
     "@fullcalendar/react": "^6.1.13",
     "@fullcalendar/timegrid": "^6.1.13",
+    "@vercel/postgres": "^0.8.0",
+    "@vercel/postgres-kysely": "^0.8.0",
+    "axios": "^1.7.2",
     "date-holidays": "^3.23.12",
     "framer-motion": "^11.2.6",
-    "next": "14.2.3",
+    "kysely": "^0.27.3",
+    "next": "^14.2.3",
+    "pg": "^8.11.5",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "sql": "^0.78.0"
   },
   "devDependencies": {
     "@types/node": "^20",
